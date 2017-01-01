@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Love
+Exec=qmlscene love.qml
+Icon=love.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

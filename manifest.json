@@ -1,0 +1,17 @@
+{
+    "name": "love.mutse",
+    "description": "This is a love app",
+    "architecture": "all",
+    "title": "love",
+    "hooks": {
+        "love": {
+            "apparmor": "love.apparmor",
+            "desktop":  "love.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mutse Young <yyhoo2.young@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
