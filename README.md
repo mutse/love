@@ -1,16 +1,16 @@
 # Love
 
-[![GitHub release](https://img.shields.io/github/release/dawndiy/recorder.svg?maxAge=2592000)](https://github.com/mutse/love/releases/latest)
-[![license](https://img.shields.io/github/license/dawndiy/recorder.svg)](https://github.com/mutse/love/blob/master/LICENSE)
-[![Ubuntu Store](https://img.shields.io/badge/UbuntuStore-Recorder-E95420.svg)](https://uappexplorer.com/app/love.mutse)
+[![GitHub release](https://img.shields.io/github/release/mutse/love.svg?maxAge=2592000)](https://github.com/mutse/love/releases/latest)
+[![license](https://img.shields.io/github/license/mutse/love.svg)](https://github.com/mutse/love/blob/master/LICENSE)
+[![Ubuntu Store](https://img.shields.io/badge/UbuntuStore-love-E95420.svg)](https://uappexplorer.com/app/love.mutse)
 
 <img src="love.png" width="150" />
 
 ## Screenshots
-<img src="screenshots/love00.png" width="160" />
-<img src="screenshots/love01.png" width="160" />
-<img src="screenshots/love02.png" width="160" />
-<img src="screenshots/love03.png" width="160" />
+<img src="screenshots/love00.png" width="180" />
+<img src="screenshots/love01.png" width="180" />
+<img src="screenshots/love02.png" width="180" />
+<img src="screenshots/love03.png" width="180" />
 
 This is a love app for Ubuntu Touch, it will tell your a love stroy of
 [hackerzhou](https://github.com/hackerzhou)(not me). And this repo is forked from [Love](https://github.com/hackerzhou/Love).
@@ -20,7 +20,7 @@ You can find the latest click package in [**HERE**](https://github.com/mutse/lov
 Copy the .click file to phone's home folder via adb: `adb push <PACKAGE-FILE> /home/phablet/`
 Run `adb shell 'pkcon install-local --allow-untrusted <PACKAGE-FILE>'` to install.
 
-Now, you can also find & install it from [OpenStore](https://open.uappexplorer.com/app/love.mutse).
+Now, you can also find & install it from [uApp Explorer](https://uappexplorer.com/app/love.mutse).
 
 ## Build
 You can get the source code from github with git, and then build it as following command:
@@ -28,6 +28,7 @@ You can get the source code from github with git, and then build it as following
 ```bash
 $ git clone https://github.com/mutse/love.git
 $ click build love
+```
 
 ## License
 
