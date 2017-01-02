@@ -1,6 +1,6 @@
 # Love
 
-[![GitHub release](https://img.shields.io/github/release/mutse/love.svg?maxAge=2592000)](https://github.com/mutse/love/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/mutse/love.svg)](https://github.com/mutse/love/releases/latest)
 [![license](https://img.shields.io/github/license/mutse/love.svg)](https://github.com/mutse/love/blob/master/LICENSE)
 [![Ubuntu Store](https://img.shields.io/badge/UbuntuStore-love-E95420.svg)](https://uappexplorer.com/app/love.mutse)
 
