@@ -12,8 +12,12 @@
 <img src="screenshots/love02.png" width="180" />
 <img src="screenshots/love03.png" width="180" />
 
+## About
 This is a love app for Ubuntu Touch, it will tell your a love stroy of
 [hackerzhou](https://github.com/hackerzhou)(not me). And this repo is forked from [Love](https://github.com/hackerzhou/Love).
+
++ Coding with a love stroy
++ Playing a love song automatically
 
 ## Install
 You can find the latest click package in [**HERE**](https://github.com/mutse/love/releases).
@@ -23,7 +27,7 @@ Run `adb shell 'pkcon install-local --allow-untrusted <PACKAGE-FILE>'` to instal
 Now, you can also find & install it from [uApp Explorer](https://uappexplorer.com/app/love.mutse).
 
 ## Build
-You can get the source code from github with git, and then build it as following command:
+You can get the source code from github with git, and then build it as following commands:
 
 ```bash
 $ git clone https://github.com/mutse/love.git
