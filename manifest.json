@@ -9,7 +9,7 @@
             "desktop":  "love.desktop"
         }
     },
-    "version": "0.1",
+    "version": "0.2",
     "maintainer": "Mutse Young <yyhoo2.young@gmail.com>",
     "framework" : "ubuntu-sdk-15.04"
 }
